@@ -1,0 +1,8 @@
+googlesheet.open 1gKFnrtZ-kzijNeIpYxln6PZS0z5btyHjoW1vZhCZ58c
+googlesheet.gettitle ♥originalTitle
+dialog ♥originalTitle
+googlesheet.settitle ‴Test title‴
+googlesheet.gettitle ♥newTitle
+dialog ♥NewTitle
+googlesheet.settitle ♥originalTitle
+googlesheet.close

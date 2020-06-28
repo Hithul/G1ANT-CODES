@@ -1,0 +1,7 @@
+program notepad
+keyboard Hello⋘enter⋙world!
+for ♥fontsize from 10 to 100 step 10
+	keyboard ⋘alt+o⋙f
+	window font
+	keyboard ⋘tab 2⋙♥fontsize⋘enter⋙
+end

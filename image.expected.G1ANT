@@ -1,0 +1,5 @@
+♥image = ♥environment⟦USERPROFILE⟧\Desktop\image.png
+file.download https://jeremykun.files.wordpress.com/2012/01/img49.png filename ♥image
+program ♥image
+image.expected ♥image result ♥isPresent relative false
+dialog ♥isPresent

@@ -1,0 +1,6 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+program taskmgr
+ui.gettext ‴/ui[@name='Windows Task Manager']/ui[@id='1010']‴
+dialog ♥result

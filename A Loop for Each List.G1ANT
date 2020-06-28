@@ -1,0 +1,5 @@
+♥list = Adam❚Eva❚John❚Mary
+program notepad
+foreach ♥name in ♥list
+    keyboard Name=♥name⋘enter⋙
+end

@@ -1,0 +1,5 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+selenium.open firefox url https://www.google.co.uk/search?q=g1ant

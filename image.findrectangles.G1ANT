@@ -1,0 +1,4 @@
+♥image = ♥environment⟦USERPROFILE⟧\Desktop\image.png
+file.download https://static.makeuseof.com/wp-content/uploads/2016/06/PolkaDots2.jpg filename ♥image
+image.findrectangles ♥image
+dialog ♥result

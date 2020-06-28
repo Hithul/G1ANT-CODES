@@ -1,0 +1,5 @@
+ie.open google.com
+delay 5
+ie.fireevent onclick search [href='https://mail.google.com/mail/?tab=wm'] by query timeout 15000
+ie.gettitle ♥title
+dialog ♥title

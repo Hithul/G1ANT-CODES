@@ -1,0 +1,10 @@
+♥image = ♥environment⟦USERPROFILE⟧\Desktop\dot.png
+file.download https://github.com/G1ANT-Robot/G1ANT.Manual/raw/develop/-assets/dot.png filename ♥image
+program chrome arguments https://mouseaccuracy.com/game
+window ✱Accuracy✱ style maximize
+
+while ⊂true⊃
+  label retry
+  image.find image1 ♥image timeout 2 errorjump retry
+  mouse.click ♥result mousedelay 2
+end

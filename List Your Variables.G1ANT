@@ -1,0 +1,8 @@
+♥list = Adam❚Eva❚John❚Mary
+dialog ♥list
+
+♥list = Adam❚Eva❚John❚Mary
+dialog ♥list⟦2⟧
+
+♥list = Adam❚Eva❚John❚Mary
+dialog ♥list⟦count⟧

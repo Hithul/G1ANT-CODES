@@ -1,0 +1,5 @@
+♥list = Adam❚Eva❚John❚Mary
+♥list⟦⟧ = 200
+dialog ♥list
+♥test = ♥list⟦5⟧+10
+dialog ♥test

@@ -1,0 +1,4 @@
+ie.open duckduckgo.com
+window ‴✱internet explorer✱‴
+delay 2
+ie.setattribute ‴value‴ search q by name value G1ANT

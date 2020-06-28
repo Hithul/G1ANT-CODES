@@ -1,0 +1,6 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+word.open result ♥1
+word.open ♥environment⟦USERPROFILE⟧\Desktop\test.docx result ♥2
+word.switch ♥1 

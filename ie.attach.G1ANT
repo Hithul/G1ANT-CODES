@@ -1,0 +1,2 @@
+program iexplore arguments google.com
+ie.attach google by title

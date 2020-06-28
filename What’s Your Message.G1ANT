@@ -1,0 +1,8 @@
+♥login = enter your Gmail login here
+♥password = enter your Gmail password here
+
+mail.imap imap.gmail.com login ♥login password ♥password sincedate ♥date onlyunreadmessages true ignorecertificateerrors true result ♥list 
+
+foreach ♥element in ♥list
+  dialog ♥element⟦content⟧
+end

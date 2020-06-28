@@ -1,0 +1,7 @@
+selenium.click search gb_70 by id
+
+selenium.click search gb_Hd by class
+
+selenium.click search //*[@id="gb_70"] by xpath
+
+selenium.click search #gb_70 by cssselector

@@ -1,0 +1,6 @@
+dialog ⊂System.DateTime.Now⊃
+
+dialog ⊂System.DateTime.Now.Year⊃
+
+♥format = yyy####MM####dd
+dialog ⊂System.DateTime.Now.ToString(♥format)⊃

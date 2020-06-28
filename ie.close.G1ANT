@@ -1,0 +1,6 @@
+ie.open google.com result ♥id1
+ie.open bing.com result ♥id2
+ie.switch ♥id1
+ie.close
+ie.switch ♥id2
+ie.close

@@ -1,0 +1,9 @@
+addon iexplorer version 4.104.0.0
+addon ocrtesseract version 4.100.19163.1246
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+program iexplore arguments ‴g1ant.com/#the-facts‴
+delay 4
+ocrtesseract.fromscreen 10⫽57⫽1160⫽950 result ♥ocr
+dialog ♥ocr

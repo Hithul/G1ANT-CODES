@@ -1,0 +1,5 @@
+label repeat
+try errorjump repeat
+  dialog.ask ‴Enter a digit (0-9):‴ result ♥input
+  ♥input = ⟦integer⟧♥input
+end

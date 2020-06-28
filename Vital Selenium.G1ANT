@@ -1,0 +1,3 @@
+selenium.open chrome url google.com
+window ✱Google✱ style maximize
+selenium.click search gb_70 by id

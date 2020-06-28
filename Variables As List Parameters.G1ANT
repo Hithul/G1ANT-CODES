@@ -1,0 +1,3 @@
+♥list = Adam❚Eva❚John❚Mary
+♥pos = 3
+dialog ♥list⟦♥pos⟧

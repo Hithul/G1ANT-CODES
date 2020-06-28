@@ -1,0 +1,8 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+selenium.open chrome url duckduckgo.com
+selenium.type ‴whale sharks‴ search search_form_input_homepage by id
+delay 2
+selenium.presskey enter search search_button_homepage by id

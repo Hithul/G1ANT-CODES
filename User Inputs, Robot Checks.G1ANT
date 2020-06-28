@@ -1,0 +1,10 @@
+dialog.ask ‴Enter a digit (0-9):‴ result ♥input
+if ♥input=="1"
+   dialog ‴You entered 1‴
+  else if ♥input=="2"
+    dialog ‴You entered 2‴
+  else if ♥input=="3"
+    dialog ‴You entered 3‴
+  else
+    dialog ‴Your digit is greater than 3 or less than 1‴
+end

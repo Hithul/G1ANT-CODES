@@ -1,0 +1,7 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+selenium.open firefox url https://www.nasa.gov nowait true result ♥nasa
+selenium.open chrome url google.com result ♥google
+selenium.switch ♥nasa

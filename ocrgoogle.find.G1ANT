@@ -1,0 +1,10 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+♥googleLogin = Provide your Google Cloud credential here
+ocrgoogle.login ♥googleLogin
+program notepad
+keyboard ⋘ENTER⋙‴   TEST    ‴
+delay 1
+ocrgoogle.find search test
+dialog ♥result

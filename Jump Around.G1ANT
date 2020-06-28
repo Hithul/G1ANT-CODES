@@ -1,0 +1,4 @@
+program notepad
+label start
+keyboard 1
+jump start

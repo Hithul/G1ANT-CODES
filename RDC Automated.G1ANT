@@ -1,0 +1,21 @@
+program mstsc
+♥rdc = /ui[@name='Remote Desktop Connection']
+waitfor.ui ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+ui.click ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+ui.settext ‴♥rdc/ui[@typeid='50003']/ui[@typeid='50004']‴ text test.domain.com
+delay 1
+ui.settext ‴♥rdc/ui[@id='13064']‴ text admin
+ui.click ‴♥rdc/ui[@id='5015']/ui[@name='Display']‴
+for ♥i from 1 to 4
+  ui.click ‴♥rdc/ui[@id='13065']/ui[@name='Page left']‴
+end
+ui.click ‴♥rdc/ui[@id='5015']/ui[@name='Local Resources']‴
+ui.click ‴♥rdc/ui[@id='13222']‴
+ui.click ‴♥rdc/ui[@id='13082']‴
+ui.click ‴♥rdc♥rdc/ui[@id='13221']/ui[@name='Drives']‴
+keyboard ⋘SPACE⋙
+ui.click ‴♥rdc♥rdc/ui[@id='13220']‴
+ui.click ‴♥rdc/ui[@id='5015']/ui[@name='General']‴
+dialog ‴Now, click OK to close this dialog and click Save As button‴
+waitfor.ui ‴♥rdc/ui[@name='Save As']/descendant::ui[@id='FileNameControlHost']/ui[@id='1001']‴ timeout 10000
+ui.settext ‴♥rdc/ui[@name='Save As']/descendant::ui[@id='FileNameControlHost']/ui[@id='1001']‴ text ‴Sample RDP file‴

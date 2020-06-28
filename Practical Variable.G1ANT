@@ -1,0 +1,6 @@
+♥fontsize = 10
+program notepad
+keyboard Hello⋘enter⋙world!
+keyboard ⋘alt+o⋙f
+window font
+keyboard ⋘tab 2⋙♥fontsize⋘enter⋙

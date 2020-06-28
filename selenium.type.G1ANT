@@ -1,0 +1,9 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+selenium.open chrome url duckduckgo.com
+selenium.type ‴robotic process automation‴ search search_form_input_homepage by id
+selenium.click search search_button_homepage by id
+delay 3
+selenium.type ‴ g1ant‴ search search_form_input by id
+selenium.presskey enter search search_button by id

@@ -1,0 +1,5 @@
+dialog.ask ‴Enter the first digit (0-9):‴ result ♥input1
+dialog.ask ‴Enter the second digit (0-9):‴ result ♥input2
+♥input1 = ⟦integer⟧♥input1
+♥input2 = ⟦integer⟧♥input2
+dialog ♥input1+♥input2

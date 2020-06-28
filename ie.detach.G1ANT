@@ -1,0 +1,7 @@
+ie.open google.com result ♥id1
+ie.open bing.com result ♥id2
+ie.switch ♥id1
+ie.gettitle
+dialog ♥result
+ie.detach
+ie.switch ♥id1

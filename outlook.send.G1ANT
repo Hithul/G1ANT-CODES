@@ -1,0 +1,7 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+outlook.open
+outlook.newmessage to hi@g1ant.com subject Great! body ‴Your robot rules!‴ attachments ‴D:\Files\Text.txt❚D:\Files\sheet.xlsx‴
+outlook.send
+outlook.close 

@@ -1,0 +1,8 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+program notepad
+ui.setroot wpath ‴/ui[@name='Untitled - Notepad']‴
+ui.click ‴/ui[@id='MenuBar']/ui[@name='File']‴
+delay 2
+ui.click wpath ‴/descendant::ui[@name='Close']‴

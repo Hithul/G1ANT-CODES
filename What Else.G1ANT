@@ -1,0 +1,13 @@
+for ♥i from 1 to 5
+  if ♥i==1
+    dialog ‴One - to rule them all‴
+  else if ♥i==2
+    dialog ‴Two - to rule them, too‴
+  else if ♥i==3
+    dialog ‴Three - you will see‴
+  else if ♥i==4
+    dialog ‴Four - you were looking for‴
+  else
+    dialog ‴Five - time to jive‴
+  end
+end

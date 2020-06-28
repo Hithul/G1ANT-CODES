@@ -1,0 +1,6 @@
+program iexplore arguments google.com
+keyboard ⋘CTRL+T⋙
+keyboard g1ant.com⋘ENTER⋙
+ie.attach google by title
+delay 6
+ie.activatetab g1ant by title

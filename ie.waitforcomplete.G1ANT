@@ -1,0 +1,5 @@
+ie.open google.com nowait true
+window ✱internet✱
+ie.seturl g1ant.com
+ie.waitforcomplete 10000
+ie.seturl duckduckgo.com

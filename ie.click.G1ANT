@@ -1,0 +1,4 @@
+ie.open google.com
+window ‴✱internet explorer✱‴
+delay 2
+ie.click gb_70 by id

@@ -1,0 +1,9 @@
+♥list = Adam❚Eva❚John❚Mary
+♥list⟦1⟧ = Peter
+dialog ♥list
+
+♥list = Adam❚Eva❚John❚Mary
+dialog ♥list⟦count⟧
+♥list⟦⟧ = Jack
+dialog ♥list
+dialog ♥list⟦count⟧

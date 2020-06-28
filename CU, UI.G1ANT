@@ -1,0 +1,7 @@
+program mstsc
+♥rdc = /ui[@name='Remote Desktop Connection']
+waitfor.ui ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+ui.click ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+ui.settext ‴♥rdc/ui[@typeid='50003']/ui[@typeid='50004']‴ text test.domain.com
+delay 1
+ui.settext ‴♥rdc/ui[@id='13064']‴ text admin

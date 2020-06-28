@@ -1,0 +1,11 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+selenium.open chrome url g1ant.com
+selenium.gettitle result ♥tab1
+selenium.newtab facebook.com
+selenium.gettitle ♥tab2
+dialog ‴First tab: ‴♥tab1
+dialog ‴Second tab: ‴♥tab2
+selenium.close

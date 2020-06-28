@@ -1,0 +1,10 @@
+googlesheet.open 1gKFnrtZ-kzijNeIpYxln6PZS0z5btyHjoW1vZhCZ58c result ♥sheetId1
+googlesheet.gettitle ♥title
+dialog ♥title
+googlesheet.open 1iCL_st5tCA54jCiLJ7pYScw-3P79A96pxgzeVZmv_aM result ♥sheetId2
+googlesheet.gettitle ♥title
+dialog ♥title
+googlesheet.switch id ♥sheetId1
+googlesheet.gettitle result ♥title
+dialog ♥title
+googlesheet.close id ♥sheetId2

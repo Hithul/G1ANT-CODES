@@ -1,0 +1,6 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+program notepad
+waitfor.ui ‴/ui[@name='Untitled - Notepad']/ui[@name='Font']‴
+dialog ‴Font dialog detected!‴

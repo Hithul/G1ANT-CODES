@@ -1,0 +1,12 @@
+♥value = ‴‴
+♥file = ♥environment⟦USERPROFILE⟧\Desktop\excel.xlsx
+file.download https://github.com/G1ANT-Robot/G1ANT.Manual/raw/develop/-assets/excel.xlsx filename ♥file
+xlsx.open ♥file
+for ♥rowNo from 1 to 11
+  for ♥columnNo from 1 to 7
+    xlsx.getvalue ♥rowNo colindex ♥columnNo
+    ♥value = ♥value♥result,
+  end
+  ♥value = ♥value‴♥newline‴
+end
+text.write ♥value filename output.csv
