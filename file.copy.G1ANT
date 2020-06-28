@@ -1,0 +1,6 @@
+file.exists C:\Tests\TestLogo.png timeout 1000 errorjump noFile
+file.copy C:\Tests\TestLogo.png destinationpath C:\Tests\TestLogo2.png overwrite true
+
+label noFile
+    dialog ‴File not found‴
+end

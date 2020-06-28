@@ -1,0 +1,7 @@
+procedure test
+  dialog ‴You've just called a procedure.‴
+end
+
+dialog Hi!
+call test
+dialog Bye!

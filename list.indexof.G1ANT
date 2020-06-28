@@ -1,0 +1,4 @@
+♥nameList = John❚Samantha❚Adam❚Eve❚Michael
+♥name = Samantha
+list.indexof list ♥nameList value ♥name result ♥index
+dialog ♥index

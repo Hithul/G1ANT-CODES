@@ -1,0 +1,3 @@
+♥source = ‴Name: John Surname: Smith‴
+text.find ♥source search Name:✱Surname: result ♥name
+dialog ♥name

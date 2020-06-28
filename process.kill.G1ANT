@@ -1,0 +1,8 @@
+program notepad
+excel.open
+ie.open
+selenium.open firefox url google.com
+process.kill notepad
+process.kill excel
+process.kill iexplorer
+process.kill firefox

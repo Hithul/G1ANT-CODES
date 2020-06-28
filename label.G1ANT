@@ -1,0 +1,6 @@
+program notepad
+jump start
+keyboard ‴Jump over this text‴
+
+label start
+keyboard ‴Congratulations! You've made a jump!‴

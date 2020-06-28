@@ -1,0 +1,3 @@
+♥firstText = bananas and kiwi
+♥secondText = orange
+test condition ⊂♥firstText==♥secondText⊃ errormessage ‴Texts don't match‴

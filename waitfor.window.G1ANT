@@ -1,0 +1,3 @@
+program notepad
+program chrome
+waitfor.window ‴Untitled - Notepad‴ timeout 5000

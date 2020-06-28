@@ -1,0 +1,4 @@
+for ♥i from 1 to 5
+  stop if ⊂♥i==3⊃
+  dialog ♥i
+end

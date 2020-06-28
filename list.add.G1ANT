@@ -1,0 +1,4 @@
+♥list1 = foo1❚foo2❚foo3❚123❚45
+♥list2 = a❚b❚c
+list.add list ♥list1 toadd ♥list2
+dialog ♥result

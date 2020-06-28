@@ -1,0 +1,4 @@
+♥list = one❚two❚three
+foreach ♥element in ♥list
+   dialog ♥element
+end

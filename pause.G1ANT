@@ -1,0 +1,3 @@
+dialog ‴If you don't press space twice, this process will not...‴
+pause ⋘space⋙
+dialog end!

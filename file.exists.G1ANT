@@ -1,0 +1,7 @@
+file.exists ♥environment⟦USERPROFILE⟧\Documents\test.txt errorcall notFound
+dialog ‴File exists‴
+
+procedure notFound
+    dialog ‴File not found‴
+    stop
+end

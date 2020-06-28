@@ -1,0 +1,6 @@
+♥list = one❚two❚three
+foreach ♥element in ♥list
+    dialog ♥element
+    continue
+    dialog ‴You won't see me!‴
+end

@@ -1,0 +1,12 @@
+addon xlsx version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+xlsx.open C:\Documents\Book1.xlsx accessmode read result ♥id1
+xlsx.open C:\Documents\Book2.xlsx accessmode readwrite result ♥id2
+xlsx.switch ♥id1
+xlsx.getvalue row 1 colname A result ♥value1
+dialog ♥value1
+xlsx.switch id ♥id2
+xlsx.getvalue row 1 colname A result ♥value2
+dialog ♥value2

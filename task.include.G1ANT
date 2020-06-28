@@ -1,0 +1,9 @@
+task.include forloop.G1ANT
+dialog ‴Now call a procedure from the external script file‴
+call forLoop start 3 end 6
+
+procedure forLoop start 0 end 1
+  for ♥loopCount from ♥start to ♥end
+    dialog ♥loopCount
+  end
+end

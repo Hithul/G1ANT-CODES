@@ -1,0 +1,4 @@
+♥text = ‴Welcome to G1ANT.Robot!‴
+program notepad
+keyboard ⋘alt+o⋙⋘f⋙⋘tab 2⋙20⋘enter⋙
+keyboard ♥text

@@ -1,0 +1,12 @@
+addon selenium version 4.103.0.0
+addon core version 4.100.19170.929
+addon language version 4.100.19170.929
+
+
+selenium.open chrome url http://web.whatsapp.com/
+window ‴✱whatsapp✱‴ style maximize
+delay 5
+dialog ‴scan the code from your mobile to access Whatsapp‴
+delay 3
+selenium.close
+

@@ -1,0 +1,3 @@
+program notepad
+delay 4 milliseconds 500
+keyboard Hello!

@@ -1,0 +1,6 @@
+process.enqueue robot1.g1ant
+program notepad
+process.enqueue robot2.g1ant
+process.enqueue robot3.g1ant
+keyboard ‴I'm about to finish‴
+keyboard ‴And start other processes‴

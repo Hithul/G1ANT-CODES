@@ -1,0 +1,4 @@
+random.value min -1000 max 1000
+dialog ♥result
+random.value min -1000 max 1000
+dialog ♥result

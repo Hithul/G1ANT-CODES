@@ -1,0 +1,2 @@
+waitfor.directory path ♥environment⟦USERPROFILE⟧\Desktop\Test timeout 10000 errormessage ‴No such directory!‴
+dialog ‴Directory found!‴

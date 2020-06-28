@@ -1,0 +1,6 @@
+try errorcall oops
+   window blah timeout 1000
+end
+procedure oops
+   dialog ‴oops, window not found!‴
+end

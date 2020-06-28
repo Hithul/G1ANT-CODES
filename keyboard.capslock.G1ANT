@@ -1,0 +1,5 @@
+program notepad
+keyboard.capslock on
+keyboard ‴a‴⋘a⋙‴b‴⋘b⋙⋘ENTER⋙
+keyboard.capslock off
+keyboard ‴a‴⋘a⋙‴b‴⋘b⋙

@@ -1,0 +1,2 @@
+dialog.ask message ‴What is your name?‴ result ♥name
+dialog ♥name

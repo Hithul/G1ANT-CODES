@@ -1,0 +1,5 @@
+directory path ♥environment⟦USERPROFILE⟧\Documents\G1ANT.Robot\logs pattern 2019-01**
+dialog ♥result
+
+directory path ♥environment⟦USERPROFILE⟧\Desktop pattern *.txt result ♥files
+dialog ♥files⟦count⟧

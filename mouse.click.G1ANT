@@ -1,0 +1,3 @@
+keyboard ⋘WIN+D⋙
+mouse.click 664⫽346 relative false type down
+mouse.click 1362⫽671 relative false type up mousedelay 500

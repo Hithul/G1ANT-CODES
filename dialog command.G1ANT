@@ -1,0 +1,19 @@
+addon core version 4.100.19170.929
+addon language version 4.100.19170.929
+
+dialog.ask ‴what do you want search‴ result ♥Title
+dialog.ask ‴Enter Description‴ result ♥Description
+
+program notepad
+delay 2 milliseconds 500
+
+keyboard ♥Title
+keyboard ⋘enter⋙
+keyboard ♥Description
+
+dialog ♥Title
+dialog ♥Description
+
+
+
+

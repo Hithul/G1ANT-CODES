@@ -1,0 +1,9 @@
+♥number = 1
+call increaseNumber
+dialog ♥number
+call increaseNumber
+dialog ♥number
+
+procedure increaseNumber
+  ♥number = ♥number + 1
+end

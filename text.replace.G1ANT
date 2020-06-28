@@ -1,0 +1,3 @@
+♥source = Name: John Surname: Smith
+text.replace ♥source search John replace Tom result ♥name
+dialog ♥name

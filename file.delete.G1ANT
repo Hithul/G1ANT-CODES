@@ -1,0 +1,7 @@
+file.exists C:\G1ANT\test.txt timeout 1000 errorjump notFound
+dialog ‴File exists and will be deleted‴
+file.delete C:\G1ANT\test.txt
+dialog ♥result
+
+label notFound
+dialog ‴File doesn't exist‴

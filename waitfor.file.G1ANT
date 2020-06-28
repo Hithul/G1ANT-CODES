@@ -1,0 +1,2 @@
+waitfor.file path ♥environment⟦USERPROFILE⟧\Desktop\test.txt timeout 10000 errormessage ‴No file!‴
+dialog ‴File found!‴

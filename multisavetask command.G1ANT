@@ -1,0 +1,16 @@
+addon iexplorer version 4.103.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+
+ie.open google.com
+window ‴✱google✱‴ style maximize
+ie.seturl http://rpainterns.blogspot.com/2020/06/the-world-of-real-automation-40.html
+delay 3
+ie.saveas ♥environment⟦USERPROFILE⟧\Desktop\rpablog1.exe
+ie.close
+ie.open google.com
+window ‴✱google✱‴ style maximize
+ie.seturl http://rpabusiness.blogspot.com/2020/06/rpa-as-business-development-bot.html
+dialog ‴URL successfully saved‴
+ie.close
+

@@ -1,0 +1,3 @@
+for counter ♥idx from 1 to 10 step 3
+   dialog ♥idx
+end

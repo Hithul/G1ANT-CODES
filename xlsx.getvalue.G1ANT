@@ -1,0 +1,8 @@
+addon xlsx version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+xlsx.open C:\Tests\Book1.xlsx
+xlsx.getvalue row 1 colname a
+dialog ♥result
+xlsx.close

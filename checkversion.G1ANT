@@ -1,0 +1,3 @@
+♥dllPath = ♥environment⟦windir⟧\system32\kernel32.dll
+checkversion path ♥dllPath
+dialog ♥result
