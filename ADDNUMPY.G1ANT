@@ -1,0 +1,6 @@
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+
+program python
+keyboard a=10;b=20;c=a+b;c;
+keyboard ⋘ENTER⋙

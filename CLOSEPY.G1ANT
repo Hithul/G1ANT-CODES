@@ -1,0 +1,7 @@
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+
+program python
+keyboard ‴('Hello, world!')‴
+keyboard ⋘ENTER⋙
+keyboard ⋘ALT+F4⋙
